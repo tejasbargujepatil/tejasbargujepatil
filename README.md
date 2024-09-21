@@ -10,7 +10,7 @@
 
 **Fun Fact**: I'm always ready for a challenge, whether it's tech-related or otherwise!
 
-
+![Code](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
 ---
 
@@ -62,6 +62,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+
+
 
 ### 🔝 **Top Contributed Repositories**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasbargujepatil&layout=compact&theme=dark)
