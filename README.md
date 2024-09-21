@@ -1,3 +1,7 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&background=000000&width=435&lines=Welcome+to+my+GitHub+Profile!;Cyber+Security+%7C+Java+Developer;Let's+Collaborate+on+Projects!;Feel+free+to+reach+out!;Email:+tejasbarguje9@gmail.com)
+
+
+
 # 💫 **About Me:**
 - I’m passionate about **Cyber Security** and always looking for exciting projects to collaborate on.
 - Actively seeking opportunities to **learn and grow together** with like-minded individuals.
@@ -6,9 +10,14 @@
 
 **Fun Fact**: I'm always ready for a challenge, whether it's tech-related or otherwise!
 
+
+
 ---
 
+
 ## 🌐 Socials:
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tejas_Barguje_Patil) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-cybersecurityanalyst-javadeveloper/)
 [![Freelancer](https://img.shields.io/badge/Freelancer-007fed.svg?logo=freelancer&logoColor=white)](https://www.freelancer.com/u/TejasBagujePatil?sb=t)
@@ -35,6 +44,8 @@
 
 ---
 
+
+
 # 📊 **GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=tejasbargujepatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejasbargujepatil&theme=dark&hide_border=false)
@@ -57,5 +68,20 @@
 
 
 ---
+
+
+### Skills Progress
+
+![HTML 99%](https://img.shields.io/badge/HTML-99%25-brightgreen?style=for-the-badge)
+![CSS 90%](https://img.shields.io/badge/CSS-90%25-brightgreen?style=for-the-badge)
+![Python 50%](https://img.shields.io/badge/Python-50%25-yellow?style=for-the-badge)
+![AWS 40%](https://img.shields.io/badge/AWS-40%25-red?style=for-the-badge)
+![Azure 60%](https://img.shields.io/badge/Azure-60%25-orange?style=for-the-badge)
+![Angular 80%](https://img.shields.io/badge/Angular-80%25-yellow?style=for-the-badge)
+![Node.js 80%](https://img.shields.io/badge/Node.js-80%25-yellow?style=for-the-badge)
+![WordPress 70%](https://img.shields.io/badge/WordPress-70%25-yellow?style=for-the-badge)
+![MySQL 92%](https://img.shields.io/badge/MySQL-92%25-brightgreen?style=for-the-badge)
+![PostgreSQL 95%](https://img.shields.io/badge/PostgreSQL-95%25-brightgreen?style=for-the-badge)
+![GitHub 93%](https://img.shields.io/badge/GitHub-93%25-brightgreen?style=for-the-badge)
 
 [![](https://visitcount.itsvg.in/api?id=tejasbargujepatil&icon=0&color=0)](https://visitcount.itsvg.in)
