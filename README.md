@@ -6,7 +6,13 @@
 
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1f6f3f&height=240&section=header&text=Tejas%20Barguje%20Patil&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%26%20DevSecOps%20Engineer%20%C2%B7%20Founder%20%26%20Builder&descAlignY=57&descSize=18" width="100%"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1f6f3f&height=240&section=header&text=Tejas%20Barguje%20Patil&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20and%20DevSecOps%20Engineer%20-%20Founder%20and%20Builder&descAlignY=57&descSize=18"
+    width="100%"
+    alt="Tejas Barguje Patil"
+  />
+</p>
 
 <br>
 
@@ -1538,15 +1544,6 @@ I try to think about:
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasbargujepatil&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
 
 # 🗂️ Technology Matrix
 
